@@ -44,6 +44,7 @@
   font-size: 1rem;
   height: 80px;
   max-width: 360px;
+  overflow: hidden;
 }
 
 .fade_bottom {
